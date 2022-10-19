@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git");
 		System.out.println("Added PrintStream 1");
+		System.out.println("Change new Style");
 	}
 
 }
